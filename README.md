@@ -5,5 +5,9 @@
 > To Add Our Anticheat, Simply Go To The Roblox Console And Type,
 
 ```lua
-print("hello world!")
+for _,v in pairs(game:GetDescendants()) do if v.Name == "GoldenAnticheatVersion1" then local Module = require(v) v.IntializeGAC(yourApiKey) end  end
 ```
+
+> If You Have Any Trouble, Or Questions. 
+
+Join Our Discord! [Discord](https://discord.gg/rbxgen).
