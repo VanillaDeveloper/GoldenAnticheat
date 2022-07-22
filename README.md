@@ -1,5 +1,9 @@
-**GOLDEN ANTICHEAT**
-> Developed By Aetehel.
+**Welcome To GoldenAnticheat.**
+> The Evalution Of Roblox-Anticheats.
 
+**PART 1, HOW TO ADD THE ANTICHEAT TO MY GAME?**
+> To Add Our Anticheat, Simply Go To The Roblox Console And Type,
 
-`rgb(9, 105, 218)`
+```lua
+print("hello world!")
+```
